@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Jamie and I'm a QA  at Sage</h2>
-- Always learning <br>- Studied Comp Sci w/ Cyber Security at Salford University<br> - Working as a Test Engineer since 2021 <br>
+<h2 align="left">Hi 👋! My name is Jamie and I'm a QA  at AJ Bell</h2>
+- Test Engineer II <br>- Studied Comp Sci w/ Cyber Security at Salford University<br> - Working as a Test Engineer since 2021 <br>
 
 ###
 # 💻 Tech Stack:
