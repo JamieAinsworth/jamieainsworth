@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jamie and I'm a QA  at AJ Bell</h2>
+<h2 align="left">Hi 👋! My name is Jamie and I'm a Test Engineer who enjoys tinkering</h2>
 - Test Engineer II <br>- Studied Comp Sci w/ Cyber Security at Salford University<br> - Working as a Test Engineer since 2021 <br>
 
 ###
